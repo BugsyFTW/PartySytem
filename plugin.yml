@@ -1,0 +1,10 @@
+name: BugsyParty
+version: 1.2
+main: me.bugsyftw.partysystem.PartySystem
+author: BugsyFTW
+prefix: [BugsyParty]
+commands:
+    party:
+        description: Party Root Command
+    p:
+        description: Send Messages to party
